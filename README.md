@@ -1,0 +1,1 @@
+This project is a base package for TDD with ionic 3
